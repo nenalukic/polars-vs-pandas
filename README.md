@@ -9,8 +9,8 @@ Runs every code snippet from the article end-to-end — pandas ETL, Polars lazy 
 Requires [uv](https://docs.astral.sh/uv/).
 
 ```bash
-git clone git@github.com:nenalukic/-polars-vs-pandas.git
-cd -polars-vs-pandas/polars-pipeline
+git clone git@github.com:nenalukic/polars-vs-pandas.git
+cd polars-vs-pandas/polars-pipeline
 uv run pipeline.py
 ```
 
