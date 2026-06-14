@@ -1,0 +1,7 @@
+.venv/
+*.parquet
+clean/
+large_dataset/
+raw/
+events/
+main.py
