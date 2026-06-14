@@ -1,0 +1,13 @@
+# Blog content
+*.md
+!README.md
+!polars-pipeline/results.md
+
+# Images
+*.png
+
+# macOS
+.DS_Store
+
+# Claude
+.claude/
