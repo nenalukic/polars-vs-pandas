@@ -1,6 +1,6 @@
 # Polars vs Pandas in Production Pipelines
 
-Companion code for the article *Polars vs Pandas in Production Pipelines*.
+Companion code for *[Polars vs Pandas in Production Pipelines](https://pythondataengineering.net/projects/polars-vs-pandas-production-pipelines)*, featured on Python Data Engineering.
 
 Runs every code snippet from the article end-to-end — pandas ETL, Polars lazy execution, streaming, `sink_parquet`, thread config, and the Polars → pandas ML handoff — using synthetically generated data so you can reproduce the results without needing your own dataset.
 
